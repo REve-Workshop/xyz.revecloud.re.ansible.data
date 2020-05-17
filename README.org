@@ -1,0 +1,15 @@
+#+TITLE: README - REve Workshop's Data for ansible projects
+* Introduction
+  Some data, mainly examples, that can be used with the ansible
+  projects of REve-Workshop.
+* Content of the repository
+** =inventories/=
+   Source of host definitions and there associated data.
+** =users/=
+   Source of users definition.
+* Author
+
++ Roland Everaert
+* Copyright
+
+Copyright (c) 2020 Roland Everaert
